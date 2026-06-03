@@ -139,7 +139,7 @@ Ao exportar, dois arquivos são gerados simultaneamente:
 
 O arquivo CSV contém apenas os pontos capturados entre os acionamentos de **Start** e **Stop**, com o tempo referenciado ao instante do Start.
 
-## Autor
+## Autores
 
 Fernando Borge de Souza Barbosa
 
