@@ -141,7 +141,10 @@ O arquivo CSV contém apenas os pontos capturados entre os acionamentos de **Sta
 
 ## Autor
 
-Fernando Borge de Souza Barbosa 
+Fernando Borge de Souza Barbosa
+
 Lucas Silva Perez Siqueira
-Thiago Borja Gracindo 
+
+Thiago Borja Gracindo
+
 João Guilherme Marun Dias
