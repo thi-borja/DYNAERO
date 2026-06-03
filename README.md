@@ -141,5 +141,7 @@ O arquivo CSV contém apenas os pontos capturados entre os acionamentos de **Sta
 
 ## Autor
 
-Thiago — Engenharia Mecânica, FEI  
-Equipe FEI AeroDesign
+Fernando Borge de Souza Barbosa 
+Lucas Silva Perez Siqueira
+Thiago Borja Gracindo 
+João Guilherme Marun Dias
