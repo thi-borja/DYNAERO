@@ -2,7 +2,7 @@
 
 Repositório do software desenvolvido como parte do Trabalho de Conclusão de Curso em Engenharia Mecânica — FEI.
 
-O sistema realiza a medição simultânea de **empuxo** e **torque** de conjuntos moto-propulsores (motor brushless + hélice) para aeronaves de asas fixas controladas por rádio, com aplicação direta na seleção de configurações para a competição SAE Brasil AeroDesign.
+O sistema realiza a medição simultânea de **empuxo** e **torque** de conjuntos moto-propulsores (motor brushless + hélice) com aplicação direta na seleção de configurações para a competição SAE Brasil AeroDesign.
 
 ---
 
